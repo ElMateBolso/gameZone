@@ -1,0 +1,362 @@
+[
+    {
+        "titulo":"Mass",
+        "imagen":"/images/juego1.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":6,
+        "precio":10.50,
+        "masImagenes": [{
+            "secundaria1":"/image/juego1-secundaria1.jpg",
+            "secundaria2":"/image/juego1-secundaria2.jpg",
+            "secundaria3":"/image/juego1-secundaria3.jpg",
+            "secundaria4":"/image/juego1-secundaria4.jpg",
+            "secundaria5":"/image/juego1-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Battlefield 1",
+        "imagen":"/images/juego2.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8,
+        "precio":15.95,
+        "masImagenes": [{
+            "secundaria1":"/image/juego2-secundaria1.jpg",
+            "secundaria2":"/image/juego2-secundaria2.jpg",
+            "secundaria3":"/image/juego2-secundaria3.jpg",
+            "secundaria4":"/image/juego2-secundaria4.jpg",
+            "secundaria5":"/image/juego2-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Watch Dogs 2",
+        "imagen":"/images/juego3.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":7.5,
+        "precio":12.50,
+        "masImagenes": [{
+            "secundaria1":"/image/juego3-secundaria1.jpg",
+            "secundaria2":"/image/juego3-secundaria2.jpg",
+            "secundaria3":"/image/juego3-secundaria3.jpg",
+            "secundaria4":"/image/juego3-secundaria4.jpg",
+            "secundaria5":"/image/juego3-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Batman",
+        "imagen":"/images/juego4.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.5,
+        "precio":12.99,
+        "masImagenes": [{
+            "secundaria1":"/image/juego4-secundaria1.jpg",
+            "secundaria2":"/image/juego4-secundaria2.jpg",
+            "secundaria3":"/image/juego4-secundaria3.jpg",
+            "secundaria4":"/image/juego4-secundaria4.jpg",
+            "secundaria5":"/image/juego4-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"PREY",
+        "imagen":"/images/juego5.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":5.5,
+        "precio":10.55,
+        "masImagenes": [{
+            "secundaria1":"/image/juego5-secundaria1.jpg",
+            "secundaria2":"/image/juego5-secundaria2.jpg",
+            "secundaria3":"/image/juego5-secundaria3.jpg",
+            "secundaria4":"/image/juego5-secundaria4.jpg",
+            "secundaria5":"/image/juego5-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Gears of War",
+        "imagen":"/images/juego6.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":6.5,
+        "precio":8.95,
+        "masImagenes": [{
+            "secundaria1":"/image/juego6-secundaria1.jpg",
+            "secundaria2":"/image/juego6-secundaria2.jpg",
+            "secundaria3":"/image/juego6-secundaria3.jpg",
+            "secundaria4":"/image/juego6-secundaria4.jpg",
+            "secundaria5":"/image/juego6-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Darksides 2",
+        "imagen":"/images/juego7.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":7.8,
+        "precio":9.55,
+        "masImagenes": [{
+            "secundaria1":"/image/juego7-secundaria1.jpg",
+            "secundaria2":"/image/juego7-secundaria2.jpg",
+            "secundaria3":"/image/juego7-secundaria3.jpg",
+            "secundaria4":"/image/juego7-secundaria4.jpg",
+            "secundaria5":"/image/juego7-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Call of Duty",
+        "imagen":"/images/juego8.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.9,
+        "precio":12.00,
+        "masImagenes": [{
+            "secundaria1":"/image/juego8-secundaria1.jpg",
+            "secundaria2":"/image/juego8-secundaria2.jpg",
+            "secundaria3":"/image/juego8-secundaria3.jpg",
+            "secundaria4":"/image/juego8-secundaria4.jpg",
+            "secundaria5":"/image/juego8-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"DisHonored 2",
+        "imagen":"/images/juego9.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":4.5,
+        "precio":9.99,
+        "masImagenes": [{
+            "secundaria1":"/image/juego9-secundaria1.jpg",
+            "secundaria2":"/image/juego9-secundaria2.jpg",
+            "secundaria3":"/image/juego9-secundaria3.jpg",
+            "secundaria4":"/image/juego9-secundaria4.jpg",
+            "secundaria5":"/image/juego9-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Dead Island",
+        "imagen":"/images/juego10.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.0,
+        "precio":12.35,
+        "masImagenes": [{
+            "secundaria1":"/image/juego10-secundaria1.jpg",
+            "secundaria2":"/image/juego10-secundaria2.jpg",
+            "secundaria3":"/image/juego10-secundaria3.jpg",
+            "secundaria4":"/image/juego10-secundaria4.jpg",
+            "secundaria5":"/image/juego10-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Call of Duty 3",
+        "imagen":"/images/juego11.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.9,
+        "precio":15.45,
+        "masImagenes": [{
+            "secundaria1":"/image/juego11-secundaria1.jpg",
+            "secundaria2":"/image/juego11-secundaria2.jpg",
+            "secundaria3":"/image/juego11-secundaria3.jpg",
+            "secundaria4":"/image/juego11-secundaria4.jpg",
+            "secundaria5":"/image/juego11-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"CRYSIS 3",
+        "imagen":"/images/juego12.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":9.2,
+        "precio":14.98,
+        "masImagenes": [{
+            "secundaria1":"/image/juego12-secundaria1.jpg",
+            "secundaria2":"/image/juego12-secundaria2.jpg",
+            "secundaria3":"/image/juego12-secundaria3.jpg",
+            "secundaria4":"/image/juego12-secundaria4.jpg",
+            "secundaria5":"/image/juego12-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"DOOM 3",
+        "imagen":"/images/juego13.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.5,
+        "precio":7.99,
+        "masImagenes": [{
+            "secundaria1":"/image/juego13-secundaria1.jpg",
+            "secundaria2":"/image/juego13-secundaria2.jpg",
+            "secundaria3":"/image/juego13-secundaria3.jpg",
+            "secundaria4":"/image/juego13-secundaria4.jpg",
+            "secundaria5":"/image/juego13-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Morrowind",
+        "imagen":"/images/juego14.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":5.5,
+        "precio":2.50,
+        "masImagenes": [{
+            "secundaria1":"/image/juego14-secundaria1.jpg",
+            "secundaria2":"/image/juego14-secundaria2.jpg",
+            "secundaria3":"/image/juego14-secundaria3.jpg",
+            "secundaria4":"/image/juego14-secundaria4.jpg",
+            "secundaria5":"/image/juego14-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Haah Waaw",
+        "imagen":"/images/juego15.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":3.7,
+        "precio":3.55,
+        "masImagenes": [{
+            "secundaria1":"/image/juego15-secundaria1.jpg",
+            "secundaria2":"/image/juego15-secundaria2.jpg",
+            "secundaria3":"/image/juego15-secundaria3.jpg",
+            "secundaria4":"/image/juego15-secundaria4.jpg",
+            "secundaria5":"/image/juego15-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"DisHonored",
+        "imagen":"/images/juego16.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":7.0,
+        "precio":9.50,
+        "masImagenes": [{
+            "secundaria1":"/image/juego16-secundaria1.jpg",
+            "secundaria2":"/image/juego16-secundaria2.jpg",
+            "secundaria3":"/image/juego16-secundaria3.jpg",
+            "secundaria4":"/image/juego16-secundaria4.jpg",
+            "secundaria5":"/image/juego16-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Project Cars",
+        "imagen":"/images/juego17.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":7.7,
+        "precio":12.50,
+        "masImagenes": [{
+            "secundaria1":"/image/juego17-secundaria1.jpg",
+            "secundaria2":"/image/juego17-secundaria2.jpg",
+            "secundaria3":"/image/juego17-secundaria3.jpg",
+            "secundaria4":"/image/juego17-secundaria4.jpg",
+            "secundaria5":"/image/juego17-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Canyon",
+        "imagen":"/images/juego18.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":5.6,
+        "precio":5.65,
+        "masImagenes": [{
+            "secundaria1":"/image/juego18-secundaria1.jpg",
+            "secundaria2":"/image/juego18-secundaria2.jpg",
+            "secundaria3":"/image/juego18-secundaria3.jpg",
+            "secundaria4":"/image/juego18-secundaria4.jpg",
+            "secundaria5":"/image/juego18-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"DIRT",
+        "imagen":"/images/juego19.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.8,
+        "precio":12.88,
+        "masImagenes": [{
+            "secundaria1":"/image/juego19-secundaria1.jpg",
+            "secundaria2":"/image/juego19-secundaria2.jpg",
+            "secundaria3":"/image/juego19-secundaria3.jpg",
+            "secundaria4":"/image/juego19-secundaria4.jpg",
+            "secundaria5":"/image/juego19-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Forza Horizon 3",
+        "imagen":"/images/juego20.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":9.5,
+        "precio":22.99,
+        "masImagenes": [{
+            "secundaria1":"/image/juego20-secundaria1.jpg",
+            "secundaria2":"/image/juego20-secundaria2.jpg",
+            "secundaria3":"/image/juego20-secundaria3.jpg",
+            "secundaria4":"/image/juego20-secundaria4.jpg",
+            "secundaria5":"/image/juego20-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"GRID",
+        "imagen":"/images/juego21.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.5,
+        "precio":18.55,
+        "masImagenes": [{
+            "secundaria1":"/image/juego21-secundaria1.jpg",
+            "secundaria2":"/image/juego21-secundaria2.jpg",
+            "secundaria3":"/image/juego21-secundaria3.jpg",
+            "secundaria4":"/image/juego21-secundaria4.jpg",
+            "secundaria5":"/image/juego21-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Grand Theft Auto 5",
+        "imagen":"/images/juego22.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.9,
+        "precio":20.88,
+        "masImagenes": [{
+            "secundaria1":"/image/juego22-secundaria1.jpg",
+            "secundaria2":"/image/juego22-secundaria2.jpg",
+            "secundaria3":"/image/juego22-secundaria3.jpg",
+            "secundaria4":"/image/juego22-secundaria4.jpg",
+            "secundaria5":"/image/juego22-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"HALO 3",
+        "imagen":"/images/juego23.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":6.6,
+        "precio":13.69,
+        "masImagenes": [{
+            "secundaria1":"/image/juego23-secundaria1.jpg",
+            "secundaria2":"/image/juego23-secundaria2.jpg",
+            "secundaria3":"/image/juego23-secundaria3.jpg",
+            "secundaria4":"/image/juego23-secundaria4.jpg",
+            "secundaria5":"/image/juego23-secundaria5.jpg"
+        }]
+    },
+    {
+        "titulo":"Farcry 5",
+        "imagen":"/images/juego24.jpg",
+        "categotia":"accion",
+        "descripcion":"breve descripcion del juego",
+        "valoracion":8.6,
+        "precio":23.99,
+        "masImagenes": [{
+            "secundaria1":"/image/juego24-secundaria1.jpg",
+            "secundaria2":"/image/juego24-secundaria2.jpg",
+            "secundaria3":"/image/juego24-secundaria3.jpg",
+            "secundaria4":"/image/juego24-secundaria4.jpg",
+            "secundaria5":"/image/juego24-secundaria5.jpg"
+        }]
+    }
+]
