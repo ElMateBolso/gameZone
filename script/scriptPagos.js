@@ -9,7 +9,7 @@ fetch('/datos/jsonDeJuegos.json')
     for(a =0; a <b.length; a++){
 
         if (b[a].precio !=="Gratis")
-        juegos.innerHTML += tarjetasJuegos(clase, b[a].vinculo, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].numero, b[a].vinculo, b[a].numero, b[a].precio);
+        juegos.innerHTML += tarjetasJuegos(clase, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].numero, b[a].numero, b[a].precio);
 
         if (b[a].variable2 === 1){
             var clase = "par"

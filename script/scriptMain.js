@@ -16,10 +16,10 @@ fetch ("http://localhost/datos/jsonDeJuegos.json")
         }
 
         if(b[a].precio !== "Gratis" && b[a].top === true){
-            topP.innerHTML += tarjetasJuegosTop(clase, b[a].vinculo, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
+            topP.innerHTML += tarjetasJuegosTop(clase, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
     }
         else if(b[a].precio ==="Gratis" && b[a].top === true){
-            topG.innerHTML += tarjetasJuegosTop(clase, b[a].vinculo, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
+            topG.innerHTML += tarjetasJuegosTop(clase, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
         }
     }
 })

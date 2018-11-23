@@ -3,13 +3,12 @@ fetch("http://localhost/datos/jsonDeJuegos.json")
     return a.json();
 })
 .then (function(b){
-    var juegos = document.querySelector(".req");
-    var clase = "impar";
-    var numero = 1;
-    if(numero === 1){
+    var juegos = document.querySelector(".total");
+    var idJuego = localStorage.getItem("id");
 
-        // localStorage.setItem("titulo", b[a].titulo, "imagen", b[a].imagen);
-
-
+    for(var a =0; a <b.length; a++){
+        if(b[a].numero == Number(idJuego)){
+            juegos.innerHTML +="<h1>" + b[a].titulo +"</h1>"
+        }
     }
 })

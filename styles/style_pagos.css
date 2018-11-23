@@ -121,12 +121,14 @@ header {
         }
         span {
             float: right;
-            color: #8414BC;
+            background-color: #8414BC;
+            width: max-content;
+            height: 1.3em;
+            padding: .2em;
+            color: #fff;
+            text-align: center;
+            font-family: mada, san-serif;
         }
-        em {
-                color: #fff;
-                float: right;
-            }
         
 /*footer*/
 footer  {
