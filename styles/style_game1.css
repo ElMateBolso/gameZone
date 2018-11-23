@@ -37,14 +37,6 @@ header {
             nav ul li:hover {
                 color: #1FCBA3;
             }
-            
-            nav ul .category {
-                margin-top: 1.05em;
-                font-size: 120%;
-            }
-                .category ul li a {
-                    font-size: 80%;
-                }
                 nav a:hover {
                     color: #1FCBA3;
                 }
@@ -55,21 +47,6 @@ header {
                     text-decoration: none;
                     font-size: 120%;
                 }
-                    nav ul ul {
-                        position: relative;
-                        display: block;
-                        background: -moz-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* FF3.6-15 */
-                        background: -webkit-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* Chrome10-25,Safari5.1-6 */
-                        background: linear-gradient(to bottom, #ffffff 25%,#8414BC 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-                        transform: translateX(60%);
-                        opacity: 0;
-                        transition: all .3s;
-                        z-index: 10;
-                    }
-                        header ul li:hover ul {
-                            opacity: 1;
-                            transform: translateX(0%);
-                        }
     /*fin de barra de navegacion*/
 h2 {
     font-size: 320%;

@@ -75,7 +75,7 @@ header {
     }
         @keyframes banner {
             0%, 30% {
-                background-image: url(images/main_visual.png);
+                background-image: url(images/banner3.jpg);
                 opacity: 1;
             }
             31%, 34% {
@@ -126,8 +126,9 @@ p {
 }
 span {
     position: relative;
-    display: block;
+    text-align: center;
     margin-top: 10em;
+    margin-right: .3em;
 }
 /*fin de contenido del div de juegos*/
 /*contenedores de los juegos*/
@@ -166,6 +167,7 @@ span {
         background-color: #1F86CB;
         width: 100%;
         height:max-content;
+        margin-top: .3em;
         padding: .3em;
         }
     .impar {

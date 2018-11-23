@@ -37,10 +37,10 @@ header {
             nav ul li a:hover {
                 color: #1FCBA3;
             }
-            .todos {
+            .pagos {
                 color: #1FCBA3;
             }
-            .todos:hover {
+            .pagos:hover {
                 color: #1F86CB;
             }
                 nav ul li a {
@@ -127,6 +127,7 @@ header {
                 color: #fff;
                 float: right;
             }
+        
 /*footer*/
 footer  {
     display: inline-block;
@@ -172,9 +173,9 @@ footer  {
             footer a:hover {
                 color: #1F86CB;
             }
-            #jfooter {
+            #pagos {
                 color: #1F86CB;
             }
-            #jfooter:hover {
+            #pagos:hover {
                 color: #1FCBA3;
             }

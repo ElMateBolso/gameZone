@@ -4,10 +4,8 @@ fetch ("http://localhost/datos/jsonDeJuegos.json")
     return a.json();    
 })
 .then(function(b){
-    var top = document.querySelector(".tops");
     var topP = document.querySelector(".toppagos");
     var topG = document.querySelector(".topgratis");
-    var contenedor = clase;
     var clase = "impar";
     for(a =0; a <b.length; a++){
         if (b[a].variable ===1){
@@ -18,10 +16,10 @@ fetch ("http://localhost/datos/jsonDeJuegos.json")
         }
 
         if(b[a].precio !== "Gratis" && b[a].top === true){
-        topP.innerHTML +="<div class='" + clase +"'><a href='game1.html'><h3 class='titulo'>" + b[a].titulo +"</h3><p><img src='" + b[a].imagen +"' class='portada'></a>" + b[a].descripcionBreve +"<span class='categoria'>Categoría: " + b[a].categoria +"</span></p></div>";
+            topP.innerHTML += tarjetasJuegosTop(clase, b[a].vinculo, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
     }
         else if(b[a].precio ==="Gratis" && b[a].top === true){
-            topG.innerHTML +="<div class='" + clase +"'><h3 class='titulo'>" + b[a].titulo +"</h3><p><img src='" + b[a].imagen +"' class='portada'>" + b[a].descripcionBreve +"</div>";
+            topG.innerHTML += tarjetasJuegosTop(clase, b[a].vinculo, b[a].numero, b[a].titulo, b[a].imagen, b[a].descripcionBreve, b[a].categoria);
         }
     }
 })

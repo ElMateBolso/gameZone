@@ -7,9 +7,9 @@ header {
     margin: auto;
     width: 100%;
     height: 5em;
-    background: -moz-linear-gradient(top, #8414BC 0%, #ffffff 53%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #8414BC 0%,#ffffff 53%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #8414BC 0%,#ffffff 53%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(top, #8414BC 15%, #ffffff 70%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #8414BC 15%,#ffffff 70%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #8414BC 15%,#ffffff 70%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     display: flex;
 }
     .logo {
@@ -37,14 +37,6 @@ header {
             nav ul li:hover {
                 color: #1FCBA3;
             }
-            
-            nav ul .category {
-                margin-top: 1.05em;
-                font-size: 120%;
-            }
-                .category ul li a {
-                    font-size: 80%;
-                }
                 nav a:hover {
                     color: #1FCBA3;
                 }
@@ -55,21 +47,12 @@ header {
                     text-decoration: none;
                     font-size: 120%;
                 }
-                    nav ul ul {
-                        position: relative;
-                        display: block;
-                        background: -moz-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* FF3.6-15 */
-                        background: -webkit-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* Chrome10-25,Safari5.1-6 */
-                        background: linear-gradient(to bottom, #ffffff 25%,#8414BC 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-                        transform: translateX(60%);
-                        opacity: 0;
-                        transition: all .3s;
-                        z-index: 10;
-                    }
-                        header ul li:hover ul {
-                            opacity: 1;
-                            transform: translateX(0%);
-                        }
+                .registrarse1{
+                    color: #1FCBA3;
+                }
+                .registrarse1:hover{
+                    color: #1F86CB;
+                }
     /*fin de barra de navegacion*/
 h2 {
     position: relative;
@@ -140,9 +123,9 @@ footer  {
     margin: auto;
     width: 100%;
     height: 5em;
-    background: -moz-linear-gradient(top, #ffffff 0%, #8414BC 53%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #ffffff 0%,#8414BC 53%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #ffffff 25%,#8414BC 90%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(top, #ffffff 35%, #8414BC 75%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #ffffff 35%,#8414BC 75%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #ffffff 35%,#8414BC 75%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
  .footer {
      align-content: center;
@@ -168,14 +151,20 @@ footer  {
     
         footer ul li {
             text-align: center;
-            padding-left: 2em;
+            padding-left: 1em;
         }
             footer ul li a {
-                color: #1F86CB;
+                color: #1FCBA3;
                 text-decoration: none;
                 font-family: varela-raund, sans-serif;
                 font-weight: bold;
             }
             footer a:hover {
-                color: #1FCBA3;
+                color: #1F86CB;
+            }
+            .registrarse{
+                color: #1F86CB;
+            }
+            .registrarse:hover{
+                color: #1FCBA3
             }

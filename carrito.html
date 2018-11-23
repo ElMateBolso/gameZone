@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div class="compra"></div>
+    <script src="script/funciones.js"></script>
+<script>
+
+fetch("/datos/jsonDeJuegos.json")
+.then (function(a){
+    return a.json();
+})
+.then (function(b){
+    var compra = document.querySelector(".compra");
+
+    // compra.innerHTML = localStorage.getItem("titulo", "imagen");
+})
+</script>
+</body>
+</html>
