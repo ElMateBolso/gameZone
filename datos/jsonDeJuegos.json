@@ -1,43 +1,101 @@
 [
     {
         "titulo":"Mass",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego1.jpg",
         "top":false,
         "categoria":"RPG",
+        "descripcion": "Mass Effect Andrómeda es el próximo juego de Bioware y la continuación de la saga Mass Effect en la nueva generación. La línea temporal tendrá lugar mucho tiempo después de los acontecimientos ocurridos en Mass Effect 3, pero partirá después de Mass Effect 2, cuando la humanidad desesperada y amenazada ante un ataque inmediato de los segadores sobre la vía láctea decide realizar un éxodo masivo a bordo de la estación Nexus para explorar la galaxia Andrómeda (nuestra vecina) tratando de encontrar un nuevo hogar donde estar a salvo de la amenaza de las grandes máquinas. Mass Effect Andrómeda por lo tanto no pertenece a la trilogía original y se centrará en crear una nueva historia con su propio final.",
         "descripcionBreve":"Mass Effect: Andromeda es un videojuego de rol de acción desarrollado por BioWare y publicado por Electronic Arts. Es el cuarto videojuego de la saga Mass Effect pero independiente de la trilogía original.",
         "valoracion":6,
         "precio":"U$S 10.50",
+        "precio2": 10.50,
         "variable": 1,
         "variable2":1,
         "numero": 1,
         "vinculo":"mass",
+        "descuento": 0,
+        "descuento2": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego1-secundaria1.jpg",
-            "secundaria2":"/image/juego1-secundaria2.jpg",
-            "secundaria3":"/image/juego1-secundaria3.jpg",
-            "secundaria4":"/image/juego1-secundaria4.jpg",
-            "secundaria5":"/image/juego1-secundaria5.jpg"
+            "secundaria1":"/images/juego1_secundaria1.jpg",
+            "secundaria2":"/images/juego1_secundaria2.jpg",
+            "secundaria3":"/images/juego1_secundaria3.jpg",
+            "secundaria4":"/images/juego1_secundaria4.jpg",
+            "secundaria5":"/images/juego1_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Battlefield 1",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego2.jpg",
         "top":true,
-        "topVariable": "impar",
+        "topVariable": 1,
         "categoria":"Accion",
+        "descripcion": "Mass Effect Andrómeda es el próximo juego de Bioware y la continuación de la saga Mass Effect en la nueva generación. La línea temporal tendrá lugar mucho tiempo después de los acontecimientos ocurridos en Mass Effect 3, pero partirá después de Mass Effect 2, cuando la humanidad desesperada y amenazada ante un ataque inmediato de los segadores sobre la vía láctea decide realizar un éxodo masivo a bordo de la estación Nexus para explorar la galaxia Andrómeda (nuestra vecina) tratando de encontrar un nuevo hogar donde estar a salvo de la amenaza de las grandes máquinas. Mass Effect Andrómeda por lo tanto no pertenece a la trilogía original y se centrará en crear una nueva historia con su propio final.",
         "descripcionBreve":"Battlefield 1 es un videojuego de disparos y acción bélica en primera persona. El título fue desarrollado por DICE y distribuido mundialmente por Electronic Arts para PlayStation 4, Xbox One y Microsoft Windows.",
         "valoracion":8,
         "precio":"U$S 15.95",
+        "precio2": 15.95,
         "variable": 2,
         "variable2":2,
         "numero": 2,
         "vinculo":"battlefield",
+        "descuento": 10,
+        "descuento2": 0.10,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego2-secundaria1.jpg",
-            "secundaria2":"/image/juego2-secundaria2.jpg",
-            "secundaria3":"/image/juego2-secundaria3.jpg",
-            "secundaria4":"/image/juego2-secundaria4.jpg",
-            "secundaria5":"/image/juego2-secundaria5.jpg"
+            "secundaria1":"/images/juego2_secundaria1.jpg",
+            "secundaria2":"/images/juego2_secundaria2.jpg",
+            "secundaria3":"/images/juego2_secundaria3.jpg",
+            "secundaria4":"/images/juego2_secundaria4.jpg",
+            "secundaria5":"/images/juego2_secundaria5.jpg"
         }]
     },
     {
@@ -45,182 +103,437 @@
         "banner":"/images/banner1.jpg",
         "imagen":"/images/juego3.jpg",
         "top":true,
+        "topVariable": 2,
         "categoria":"Aventura",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Watch Dogs 2 es un videojuego de mundo abierto y acción-aventura desarrollado por Ubisoft Montreal y distribuido por Ubisoft para las plataformas Microsoft Windows, PlayStation 4 y Xbox One.",
         "valoracion":7.5,
         "precio":"U$S 12.50",
+        "precio2": 12.50,
         "variable": 1,
         "variable2":1,
         "numero": 3,
         "vinculo":"wd2",
+        "descuento": 0,
+        "descuento2": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego3-secundaria1.jpg",
-            "secundaria2":"/image/juego3-secundaria2.jpg",
-            "secundaria3":"/image/juego3-secundaria3.jpg",
-            "secundaria4":"/image/juego3-secundaria4.jpg",
-            "secundaria5":"/image/juego3-secundaria5.jpg"
+            "secundaria1":"/images/juego3_secundaria1.jpg",
+            "secundaria2":"/images/juego3_secundaria2.jpg",
+            "secundaria3":"/images/juego3_secundaria3.jpg",
+            "secundaria4":"/images/juego3_secundaria4.jpg",
+            "secundaria5":"/images/juego3_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Batman",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego4.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Batman: Arkham City es un videojuego de acción y aventura lanzado en el año 2011 desarrollado por Rocksteady Studios. Es la secuela de Batman: Arkham Asylum la cual salió al mercado en el 2009.",
         "valoracion":8.5,
         "precio":"U$S 12.99",
+        "precio2": 12.99,
         "variable": 2,
         "variable2":2,
         "numero": 4,
         "vinculo":"batman",
+        "descuento": 20,
+        "descuento2": 0.20,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego4-secundaria1.jpg",
-            "secundaria2":"/image/juego4-secundaria2.jpg",
-            "secundaria3":"/image/juego4-secundaria3.jpg",
-            "secundaria4":"/image/juego4-secundaria4.jpg",
-            "secundaria5":"/image/juego4-secundaria5.jpg"
+            "secundaria1":"/images/juego4_secundaria1.jpg",
+            "secundaria2":"/images/juego4_secundaria2.jpg",
+            "secundaria3":"/images/juego4_secundaria3.jpg",
+            "secundaria4":"/images/juego4_secundaria4.jpg",
+            "secundaria5":"/images/juego4_secundaria5.jpg"
         }]
     },
     {
         "titulo":"PREY",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego5.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Prey es un videojuego de disparos en primera persona desarrollado por Human Head Studios y producido por 3D Realms, usando una versión modificada del motor de Doom 3.",
         "valoracion":5.5,
         "precio":"U$S 10.55",
-        "variable": 1,
-        "variable2":1,
+        "precio2": 10.55,
+        "variable": 2,
+        "variable2":2,
         "numero": 5,
         "vinculo":"prey",
+        "descuento": 5,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego5-secundaria1.jpg",
-            "secundaria2":"/image/juego5-secundaria2.jpg",
-            "secundaria3":"/image/juego5-secundaria3.jpg",
-            "secundaria4":"/image/juego5-secundaria4.jpg",
-            "secundaria5":"/image/juego5-secundaria5.jpg"
+            "secundaria1":"/images/juego5_secundaria1.jpg",
+            "secundaria2":"/images/juego5_secundaria2.jpg",
+            "secundaria3":"/images/juego5_secundaria3.jpg",
+            "secundaria4":"/images/juego5_secundaria4.jpg",
+            "secundaria5":"/images/juego5_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Gears of War",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego6.jpg",
         "top":true,
-        "topVariable": "impar",
+        "topVariable": "2",
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Gears of War es un videojuego de disparos en tercera persona, del género acción-aventura y estrategia, desarrollado por Epic Games utilizando el motor de videojuego Unreal Engine 3.",
         "valoracion":6.5,
         "precio":"Gratis",
-        "variable": 2,
+        "precio2": 0,
+        "variable": 1,
         "clase2":1,
         "numero": 6,
         "vinculo":"gow",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego6-secundaria1.jpg",
-            "secundaria2":"/image/juego6-secundaria2.jpg",
-            "secundaria3":"/image/juego6-secundaria3.jpg",
-            "secundaria4":"/image/juego6-secundaria4.jpg",
-            "secundaria5":"/image/juego6-secundaria5.jpg"
+            "secundaria1":"/images/juego6_secundaria1.jpg",
+            "secundaria2":"/images/juego6_secundaria2.jpg",
+            "secundaria3":"/images/juego6_secundaria3.jpg",
+            "secundaria4":"/images/juego6_secundaria4.jpg",
+            "secundaria5":"/images/juego6_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Darksiders 2",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego7.jpg",
         "top":true,
+        "topVariable": 1,
         "categoria":"RPG",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Darksiders II es un videojuego de rol y acción aventura desarrollado por Vigil Games y publicado por THQ. Es la secuela de Darksiders y fue lanzado en agosto de 2012 para PC.",
         "valoracion":7.8,
         "precio":"Gratis",
-        "variable": 1,
+        "precio2": 0,
+        "variable": 2,
         "clase2":2,
         "numero": 7,
         "vinculo":"darksides",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego7-secundaria1.jpg",
-            "secundaria2":"/image/juego7-secundaria2.jpg",
-            "secundaria3":"/image/juego7-secundaria3.jpg",
-            "secundaria4":"/image/juego7-secundaria4.jpg",
-            "secundaria5":"/image/juego7-secundaria5.jpg"
+            "secundaria1":"/images/juego7_secundaria1.jpg",
+            "secundaria2":"/images/juego7_secundaria2.jpg",
+            "secundaria3":"/images/juego7_secundaria3.jpg",
+            "secundaria4":"/images/juego7_secundaria4.jpg",
+            "secundaria5":"/images/juego7_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Call of Duty",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego8.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Call of Duty es un videojuego de disparos en primera persona de tipo bélico.",
         "valoracion":8.9,
         "precio":"U$S 12.00",
-        "variable": 2,
-        "variable2":2,
+        "precio2": 12.00,
+        "variable": 1,
+        "variable2":1,
         "numero": 8,
         "vinculo":"cod",
+        "descuento": 15,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego8-secundaria1.jpg",
-            "secundaria2":"/image/juego8-secundaria2.jpg",
-            "secundaria3":"/image/juego8-secundaria3.jpg",
-            "secundaria4":"/image/juego8-secundaria4.jpg",
-            "secundaria5":"/image/juego8-secundaria5.jpg"
+            "secundaria1":"/images/juego8_secundaria1.jpg",
+            "secundaria2":"/images/juego8_secundaria2.jpg",
+            "secundaria3":"/images/juego8_secundaria3.jpg",
+            "secundaria4":"/images/juego8_secundaria4.jpg",
+            "secundaria5":"/images/juego8_secundaria5.jpg"
         }]
     },
     {
         "titulo":"DisHonored 2",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego9.jpg",
         "top":true,
-        "topVariable": "impar",
+        "topVariable": 2,
         "categoria":"Aventura",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Dishonored 2 es un videojuego perteneciente al género de acción-aventura y sigilo desarrollado por la empresa Arkane Studios para Microsoft Windows.",
         "valoracion":4.5,
         "precio":"Gratis",
+        "precio2": 0,
         "variable": 1,
         "clase2":1,
         "numero": 9,
         "vinculo":"dishonored 2",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego9-secundaria1.jpg",
-            "secundaria2":"/image/juego9-secundaria2.jpg",
-            "secundaria3":"/image/juego9-secundaria3.jpg",
-            "secundaria4":"/image/juego9-secundaria4.jpg",
-            "secundaria5":"/image/juego9-secundaria5.jpg"
+            "secundaria1":"/images/juego9_secundaria1.jpg",
+            "secundaria2":"/images/juego9_secundaria2.jpg",
+            "secundaria3":"/images/juego9_secundaria3.jpg",
+            "secundaria4":"/images/juego9_secundaria4.jpg",
+            "secundaria5":"/images/juego9_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Dead Island",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego10.jpg",
         "top":false,
         "categoria":"Aventura",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Dead Island es un videojuego de rol de acción y survival horror en un Mundo abierto desarrollado por Techland y distribuido por Deep Silver para PC, Xbox 360, PlayStation 3 y Playstation 4.",
         "valoracion":8.0,
         "precio":"U$S 12.35",
+        "precio2": 12.35,
         "variable": 2,
-        "variable2":1,
+        "variable2":2,
         "numero": 10,
         "vinculo":"deadisland",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego10-secundaria1.jpg",
-            "secundaria2":"/image/juego10-secundaria2.jpg",
-            "secundaria3":"/image/juego10-secundaria3.jpg",
-            "secundaria4":"/image/juego10-secundaria4.jpg",
-            "secundaria5":"/image/juego10-secundaria5.jpg"
+            "secundaria1":"/images/juego10_secundaria1.jpg",
+            "secundaria2":"/images/juego10_secundaria2.jpg",
+            "secundaria3":"/images/juego10_secundaria3.jpg",
+            "secundaria4":"/images/juego10_secundaria4.jpg",
+            "secundaria5":"/images/juego10_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Call of Duty 3",
+        "banner":"/images/banner1.jpg",
         "imagen":"/images/juego11.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Call of Duty 3 es la tercera entrega de la serie de videojuegos Call of Duty. El título fue publicado al mercado tanto en las consolas de séptima generación.",
         "valoracion":8.9,
         "precio":"Gratis",
+        "precio2": 0,
         "variable": 1,
         "clase2":2,
         "numero": 11,
         "vinculo":"cod3",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego11-secundaria1.jpg",
-            "secundaria2":"/image/juego11-secundaria2.jpg",
-            "secundaria3":"/image/juego11-secundaria3.jpg",
-            "secundaria4":"/image/juego11-secundaria4.jpg",
-            "secundaria5":"/image/juego11-secundaria5.jpg"
+            "secundaria1":"/images/juego11_secundaria1.jpg",
+            "secundaria2":"/images/juego11_secundaria2.jpg",
+            "secundaria3":"/images/juego11_secundaria3.jpg",
+            "secundaria4":"/images/juego11_secundaria4.jpg",
+            "secundaria5":"/images/juego11_secundaria5.jpg"
         }]
     },
     {
@@ -229,241 +542,578 @@
         "imagen":"/images/juego12.jpg",
         "top":false,
         "categoria":"Simulacion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Crysis 3 es un videojuego de disparos en primera persona en desarrollo por Crytek y publicado por Electronic Arts para Microsoft Windows, PlayStation 3 y Xbox 360.",
         "valoracion":9.2,
         "precio":"U$S 14.98",
+        "precio2": 14.98,
         "variable": 2,
-        "variable2":2,
+        "variable2":1,
         "numero": 12,
         "vinculo":"crysis",
+        "descuento": 5,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego12-secundaria1.jpg",
-            "secundaria2":"/image/juego12-secundaria2.jpg",
-            "secundaria3":"/image/juego12-secundaria3.jpg",
-            "secundaria4":"/image/juego12-secundaria4.jpg",
-            "secundaria5":"/image/juego12-secundaria5.jpg"
+            "secundaria1":"/images/juego12_secundaria1.jpg",
+            "secundaria2":"/images/juego12_secundaria2.jpg",
+            "secundaria3":"/images/juego12_secundaria3.jpg",
+            "secundaria4":"/images/juego12_secundaria4.jpg",
+            "secundaria5":"/images/juego12_secundaria5.jpg"
         }]
     },
     {
         "titulo":"DOOM 3",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego13.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Doom 3 es un videojuego de disparos en primera persona desarrollado por id Software y publicado por Activision..",
         "valoracion":8.5,
         "precio":"U$S 7.99",
-        "variable": 1,
+        "precio2": 7.99,
+        "variable": 2,
         "variable2":1,
         "numero": 13,
         "vinculo":"doom",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego13-secundaria1.jpg",
-            "secundaria2":"/image/juego13-secundaria2.jpg",
-            "secundaria3":"/image/juego13-secundaria3.jpg",
-            "secundaria4":"/image/juego13-secundaria4.jpg",
-            "secundaria5":"/image/juego13-secundaria5.jpg"
+            "secundaria1":"/images/juego13_secundaria1.jpg",
+            "secundaria2":"/images/juego13_secundaria2.jpg",
+            "secundaria3":"/images/juego13_secundaria3.jpg",
+            "secundaria4":"/images/juego13_secundaria4.jpg",
+            "secundaria5":"/images/juego13_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Morrowind",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego14.jpg",
         "top":true,
+        "topVariable":1,
         "categoria":"RPG",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"The Elder Scrolls III: Morrowind es la tercera entrega de la conocida serie de videojuegos de rol The Elder Scrolls.",
         "valoracion":5.5,
         "precio":"Gratis",
-        "variable": 2,
-        "clase2": 1,
+        "precio2": 0,
+        "variable": 1,
+        "clase2": 2,
         "numero": 14,
         "vinculo":"morrowind",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego14-secundaria1.jpg",
-            "secundaria2":"/image/juego14-secundaria2.jpg",
-            "secundaria3":"/image/juego14-secundaria3.jpg",
-            "secundaria4":"/image/juego14-secundaria4.jpg",
-            "secundaria5":"/image/juego14-secundaria5.jpg"
+            "secundaria1":"/images/juego14_secundaria1.jpg",
+            "secundaria2":"/images/juego14_secundaria2.jpg",
+            "secundaria3":"/images/juego14_secundaria3.jpg",
+            "secundaria4":"/images/juego14_secundaria4.jpg",
+            "secundaria5":"/images/juego14_secundaria5.jpg"
         }]
     },
     {
         "titulo":"FIFA 2018",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego15.jpg",
         "top":true,
         "topVariable": "impar",
         "categoria":"Deportes",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"FIFA 18 es un videojuego de fútbol, desarrollado por Electronic Arts y publicado por EA Sports Canadá y EA Sports Rumania. Es el 25.º de la serie de videojuegos de la FIFA.",
         "valoracion":3.7,
         "precio":"U$S 15.89",
-        "variable": 1,
+        "precio2": 15.89,
+        "variable": 2,
         "variable2":2,
         "numero": 15,
         "vinculo":"fifa",
+        "descuento": 5,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego15-secundaria1.jpg",
-            "secundaria2":"/image/juego15-secundaria2.jpg",
-            "secundaria3":"/image/juego15-secundaria3.jpg",
-            "secundaria4":"/image/juego15-secundaria4.jpg",
-            "secundaria5":"/image/juego15-secundaria5.jpg"
+            "secundaria1":"/images/juego15_secundaria1.jpg",
+            "secundaria2":"/images/juego15_secundaria2.jpg",
+            "secundaria3":"/images/juego15_secundaria3.jpg",
+            "secundaria4":"/images/juego15_secundaria4.jpg",
+            "secundaria5":"/images/juego15_secundaria5.jpg"
         }]
     },
     {
         "titulo":"DisHonored",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego16.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Dishonored es un videojuego de acción-aventura y sigilo en primera persona desarrollado por Arkane Studios y publicado por Bethesda Softworks.",
         "valoracion":7.0,
         "precio":"U$S 9.50",
-        "variable": 2,
+        "precio2": 9.50,
+        "variable": 1,
         "variable2":1,
         "numero": 16,
         "vinculo":"dishonored",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego16-secundaria1.jpg",
-            "secundaria2":"/image/juego16-secundaria2.jpg",
-            "secundaria3":"/image/juego16-secundaria3.jpg",
-            "secundaria4":"/image/juego16-secundaria4.jpg",
-            "secundaria5":"/image/juego16-secundaria5.jpg"
+            "secundaria1":"/images/juego16_secundaria1.jpg",
+            "secundaria2":"/images/juego16_secundaria2.jpg",
+            "secundaria3":"/images/juego16_secundaria3.jpg",
+            "secundaria4":"/images/juego16_secundaria4.jpg",
+            "secundaria5":"/images/juego16_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Project Cars",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego17.jpg",
         "top":false,
         "categoria":"Racing",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Project CARS es un videojuego simulador-arcade de carreras desarrollado por Slightly Mad Studios y la comunidad online de World of Mass Development. El videojuego fue lanzado el 7 de mayo de 2015.",
         "valoracion":7.7,
         "precio":"U$S 12.50",
+        "precio2": 12.50,
         "variable": 1,
         "variable2":2,
         "numero": 17,
         "vinculo":"cars",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego17-secundaria1.jpg",
-            "secundaria2":"/image/juego17-secundaria2.jpg",
-            "secundaria3":"/image/juego17-secundaria3.jpg",
-            "secundaria4":"/image/juego17-secundaria4.jpg",
-            "secundaria5":"/image/juego17-secundaria5.jpg"
+            "secundaria1":"/images/juego17_secundaria1.jpg",
+            "secundaria2":"/images/juego17_secundaria2.jpg",
+            "secundaria3":"/images/juego17_secundaria3.jpg",
+            "secundaria4":"/images/juego17_secundaria4.jpg",
+            "secundaria5":"/images/juego17_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Canyon",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego18.jpg",
         "top":true,
-        "topVariable": "impar",
+        "topVariable": 2,
         "categoria":"Racing",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Canyon es el nombre de una serie de siete satélites de reconocimiento de la Fuerza Aérea de Estados Unidos. Fueron los primeros grandes satélites espía de los Estados Unidos.",
         "valoracion":5.6,
         "precio":"Gratis",
+        "precio2": 0,
         "variable": 2,
-        "clase2":2,
+        "clase2":1,
         "numero": 18,
         "vinculo":"canyon",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego18-secundaria1.jpg",
-            "secundaria2":"/image/juego18-secundaria2.jpg",
-            "secundaria3":"/image/juego18-secundaria3.jpg",
-            "secundaria4":"/image/juego18-secundaria4.jpg",
-            "secundaria5":"/image/juego18-secundaria5.jpg"
+            "secundaria1":"/images/juego18_secundaria1.jpg",
+            "secundaria2":"/images/juego18_secundaria2.jpg",
+            "secundaria3":"/images/juego18_secundaria3.jpg",
+            "secundaria4":"/images/juego18_secundaria4.jpg",
+            "secundaria5":"/images/juego18_secundaria5.jpg"
         }]
     },
     {
         "titulo":"DIRT",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego19.jpg",
         "top":true,
+        "topVariable": 2,
         "categoria":"Racing",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Colin McRae: Dirt es la sexta entrega de la serie de videojuegos de conducción Colin McRae Rally creada por Codemasters, y la última de las ediciones publicadas antes de la muerte de Colin McRae.",
         "valoracion":8.8,
         "precio":"U$S 12.88",
+        "precio2": 12.88,
         "variable": 1,
-        "variable2":1,
+        "variable2":2,
         "numero": 19,
         "vinculo":"dirt",
+        "descuento": 10,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego19-secundaria1.jpg",
-            "secundaria2":"/image/juego19-secundaria2.jpg",
-            "secundaria3":"/image/juego19-secundaria3.jpg",
-            "secundaria4":"/image/juego19-secundaria4.jpg",
-            "secundaria5":"/image/juego19-secundaria5.jpg"
+            "secundaria1":"/images/juego19_secundaria1.jpg",
+            "secundaria2":"/images/juego19_secundaria2.jpg",
+            "secundaria3":"/images/juego19_secundaria3.jpg",
+            "secundaria4":"/images/juego19_secundaria4.jpg",
+            "secundaria5":"/images/juego19_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Forza Horizon 3",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego20.jpg",
         "top":false,
         "categoria":"Racing",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Forza Horizon 3 es un videojuego de carreras de mundo abierto desarrollado por Playground Games y Turn 10 Studios y distribuido por Microsoft Studios para Xbox One y Microsoft Windows 10.",
         "valoracion":9.5,
         "precio":"Gratis",
+        "precio2": 0,
         "variable": 2,
-        "clase2":1,
+        "clase2":2,
         "numero": 20,
         "vinculo":"forza",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego20-secundaria1.jpg",
-            "secundaria2":"/image/juego20-secundaria2.jpg",
-            "secundaria3":"/image/juego20-secundaria3.jpg",
-            "secundaria4":"/image/juego20-secundaria4.jpg",
-            "secundaria5":"/image/juego20-secundaria5.jpg"
+            "secundaria1":"/images/juego20_secundaria1.jpg",
+            "secundaria2":"/images/juego20_secundaria2.jpg",
+            "secundaria3":"/images/juego20_secundaria3.jpg",
+            "secundaria4":"/images/juego20_secundaria4.jpg",
+            "secundaria5":"/images/juego20_secundaria5.jpg"
         }]
     },
     {
         "titulo":"GRID",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego21.jpg",
         "top":false,
         "categoria":"Racing",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Race Driver: Grid es la octava entrega de TOCA Race Driver, una serie de videojuegos de carreras publicada y desarrollada por Codemasters.",
         "valoracion":8.5,
         "precio":"U$S 18.55",
-        "variable": 1,
-        "variable2":2,
+        "precio2": 18.55,
+        "variable": 2,
+        "variable2":1,
         "numero": 21,
         "vinculo":"grid",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego21-secundaria1.jpg",
-            "secundaria2":"/image/juego21-secundaria2.jpg",
-            "secundaria3":"/image/juego21-secundaria3.jpg",
-            "secundaria4":"/image/juego21-secundaria4.jpg",
-            "secundaria5":"/image/juego21-secundaria5.jpg"
+            "secundaria1":"/images/juego21_secundaria1.jpg",
+            "secundaria2":"/images/juego21_secundaria2.jpg",
+            "secundaria3":"/images/juego21_secundaria3.jpg",
+            "secundaria4":"/images/juego21_secundaria4.jpg",
+            "secundaria5":"/images/juego21_secundaria5.jpg"
         }]
     },
     {
         "titulo":"Grand Theft Auto 5",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego22.jpg",
         "top":false,
         "categoria":"Simulacion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Grand Theft Auto V es un videojuego de acción-aventura de mundo abierto desarrollado por la compañía británica Rockstar North y distribuido por Rockstar Games.",
         "valoracion":8.9,
         "precio":"U$S 20.88",
-        "variable": 2,
-        "variable2":1,
+        "precio2": 20.88,
+        "variable": 1,
+        "variable2":2,
         "numero": 22,
         "vinculo":"gta",
+        "descuento": 20,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego22-secundaria1.jpg",
-            "secundaria2":"/image/juego22-secundaria2.jpg",
-            "secundaria3":"/image/juego22-secundaria3.jpg",
-            "secundaria4":"/image/juego22-secundaria4.jpg",
-            "secundaria5":"/image/juego22-secundaria5.jpg"
+            "secundaria1":"/images/juego22_secundaria1.jpg",
+            "secundaria2":"/images/juego22_secundaria2.jpg",
+            "secundaria3":"/images/juego22_secundaria3.jpg",
+            "secundaria4":"/images/juego22_secundaria4.jpg",
+            "secundaria5":"/images/juego22_secundaria5.jpg"
         }]
     },
     {
         "titulo":"HALO 3",
+        "banner":"/images/banner3.jpg",
         "imagen":"/images/juego23.jpg",
         "top":false,
         "categoria":"Accion",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Halo 3 es un videojuego de disparos en primera persona desarrollado por Bungie Studios. El juego es el tercer título de una serie que empezó con Halo: Combat Evolved y siguió con Halo 2.",
         "valoracion":6.6,
         "precio":"Gratis",
-        "variable": 1,
-        "clase2":2,
+        "precio2": 0,
+        "variable": 2,
+        "clase2":1,
         "numero": 23,
         "vinculo":"halo",
+        "descuento": 0,
+        "ficha":[{
+            "desarrollo": "Bioware",
+            "produccion":"Electronic",
+            "distribucion":"Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego23-secundaria1.jpg",
-            "secundaria2":"/image/juego23-secundaria2.jpg",
-            "secundaria3":"/image/juego23-secundaria3.jpg",
-            "secundaria4":"/image/juego23-secundaria4.jpg",
-            "secundaria5":"/image/juego23-secundaria5.jpg"
+            "secundaria1":"/images/juego23_secundaria1.jpg",
+            "secundaria2":"/images/juego23_secundaria2.jpg",
+            "secundaria3":"/images/juego23_secundaria3.jpg",
+            "secundaria4":"/images/juego23_secundaria4.jpg",
+            "secundaria5":"/images/juego23_secundaria5.jpg"
         }]
     },
     {
@@ -471,21 +1121,48 @@
         "banner":"/images/banner2.jpg",
         "imagen":"/images/juego24.jpg",
         "top":true,
-        "topVariable": "impar",
+        "topVariable": 1,
         "categoria":"Aventura",
+        "descripcion": "descripcion total del juego",
         "descripcionBreve":"Far Cry 5 es un videojuego de acción-aventura en primera persona desarrollado por Ubisoft Montreal y publicado por Ubisoft para PlayStation 4, Xbox One y Microsoft Windows.",
         "valoracion":8.6,
         "precio":"U$S 23.99",
-        "variable": 2,
-        "variable2":2,
+        "precio2": 23.99,
+        "variable": 1,
+        "variable2":1,
         "numero": 24,
         "vinculo":"farcry",
+        "descuento": 10,
+        "ficha":[{
+            "desarrollo": "BioWare",
+            "produccion":"Electronic Arts",
+            "distribucion": "Electronic Arts",
+            "jugadores": 1,
+            "formato": "DVD",
+            "textos": "Español",
+            "voces": "Inglés",
+            "online": "Sí"
+        }],
+        "reqMin":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "1.8 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "1GB para XP / 2GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "256 MB* (compatible con Pixel Shader 3.0)"
+        }],
+        "reqMax":[{
+            "sisop": "Windows XP (SP3) / Vista (SP1) / Windows 7",
+            "procesa": "2.4 GHz Intel Core 2 Duo (equivalente a AMD CPU)",
+            "ram": "2GB para XP / 4GB RAM para Vista/Windows 7",
+            "disco": "15 GB de espacio libre",
+            "grafica": "AMD/ATI Radeon HD 4850 512 MB o superior, NVidia GeForce 9800 GT 512 MB o superior"
+        }],
         "masImagenes": [{
-            "secundaria1":"/image/juego24-secundaria1.jpg",
-            "secundaria2":"/image/juego24-secundaria2.jpg",
-            "secundaria3":"/image/juego24-secundaria3.jpg",
-            "secundaria4":"/image/juego24-secundaria4.jpg",
-            "secundaria5":"/image/juego24-secundaria5.jpg"
+            "secundaria1":"/images/juego24_secundaria1.jpg",
+            "secundaria2":"/images/juego24_secundaria2.jpg",
+            "secundaria3":"/images/juego24_secundaria3.jpg",
+            "secundaria4":"/images/juego24_secundaria4.jpg",
+            "secundaria5":"/images/juego24_secundaria5.jpg"
         }]
     }
 ]

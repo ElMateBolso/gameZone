@@ -47,21 +47,6 @@ header {
                     text-decoration: none;
                     font-size: 120%;
                 }
-                    nav ul ul {
-                        position: relative;
-                        display: block;
-                        background: -moz-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* FF3.6-15 */
-                        background: -webkit-linear-gradient(top, #ffffff 25%,#8414BC 100%); /* Chrome10-25,Safari5.1-6 */
-                        background: linear-gradient(to bottom, #ffffff 25%,#8414BC 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-                        transform: translateX(60%);
-                        opacity: 0;
-                        transition: all .3s;
-                        z-index: 10;
-                    }
-                        header ul li:hover ul {
-                            opacity: 1;
-                            transform: translateX(0%);
-                        }
     /*fin de barra de navegacion*/
     /*banner*/
     .banner {
@@ -173,10 +158,10 @@ span {
     .impar {
         background-color: #1FCBA3;
     }
-    .topgratis .par {
+    .par:hover{
         background-color: #1FCBA3;
     }
-    .topgratis .impar{
+    .impar:hover{
         background-color: #1F86CB;
     }
     /*fin de los contenedores*/

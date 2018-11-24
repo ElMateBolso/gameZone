@@ -1,5 +1,5 @@
 
-fetch ("http://localhost/datos/jsonDeJuegos.json")
+fetch ("/datos/jsonDeJuegos.json")
 .then(function(a){
     return a.json();    
 })
@@ -8,10 +8,10 @@ fetch ("http://localhost/datos/jsonDeJuegos.json")
     var topG = document.querySelector(".topgratis");
     var clase = "impar";
     for(a =0; a <b.length; a++){
-        if (b[a].variable ===1){
+        if (b[a].topVariable ===2){
             var clase = "par"
         }
-        if (b[a].topVariable ==="impar") {
+        if (b[a].topVariable ===1) {
             var clase = "impar"
         }
 
@@ -23,3 +23,8 @@ fetch ("http://localhost/datos/jsonDeJuegos.json")
         }
     }
 })
+function pagJuegos(et){
+    var seleccion = et.id;
+    console.log(et);
+    window.localStorage.setItem("id",seleccion);
+}
