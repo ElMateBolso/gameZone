@@ -6,7 +6,6 @@ fetch("/datos/jsonDeJuegos.json")
     var juegos = document.querySelector(".total");
     var clase = "impar";
     var class_sp = "desc_sp";
-    
     for(var a =0; a <b.length; a++){
 
         if (b[a].descuento !==0){

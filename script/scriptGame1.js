@@ -35,7 +35,7 @@ fetch("/datos/jsonDeJuegos.json")
             } //carga de requisitos minimos
 
             for(var f =0; f <b[a].reqMax.length; f++){
-                listas.innerHTML +="<div class='req_min_cont'><h3>Requisitos Minimos</h3><ul class='req_min_ul'><li><em class='tit_li'>Sistema Operativo: </em>" 
+                listas.innerHTML +="<div class='req_min_cont'><h3>Requisitos Recomendados</h3><ul class='req_min_ul'><li><em class='tit_li'>Sistema Operativo: </em>" 
                 + b[a].reqMax[f].sisop +"</li><br><li><em class='tit_li'>Procesador: </em>" + b[a].reqMax[f].procesa +"</li><br><li><em class='tit_li'>Memoria RAM: </em>" 
                 + b[a].reqMax[f].ram +"</li><br><li><em class='tit_li'>Espacio de Disco: </em>" + b[a].reqMax[f].disco +"</li><br><li><em class='tit_li'>Tarjeta Grafica: </em>" 
                 + b[a].reqMax[f].grafica +"</li></ul></div>"
@@ -44,9 +44,3 @@ fetch("/datos/jsonDeJuegos.json")
         }
     }
 })
-
-function carrito(etq){
-    var slctr = etq.id;
-    console.log(etq)
-    window.localStorage.setItem("id",slctr);
-}

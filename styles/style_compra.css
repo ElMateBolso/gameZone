@@ -51,7 +51,7 @@ header {
 /*Formulario de compra*/
 .form_cont{
     width: 60%;
-    height: 19.8em;
+    height: 36em;
     margin: auto;
     background: -moz-linear-gradient(top, #1FCBA3 25%, #1F86CB 90%); /* FF3.6-15 */
     background: -webkit-linear-gradient(top, #1FCBA3 25%,#1F86CB 90%); /* Chrome10-25,Safari5.1-6 */
@@ -79,18 +79,71 @@ ul{
     font-family: mada, sans-serif;
     margin: 0 0 .3em .5em;
 }
+.radio1{
+    margin-left: .6em;
+}
+.radio2{
+    margin-left: .2em;
+}
+.radio3{
+    margin-left: .6em;
+}
+.radio4{
+    margin-left: .7em;
+}
+.radio5{
+    margin-left: .2em;
+}
+input{
+    background-color: #8414BC;
+    color: #fff;
+    margin: auto;
+
+}
 .obj_tit{
     color: #8414BC;
     font-family: mada, sans-serif;
     font-weight: bold;
     margin-right: .3em;
 }
-.conf_comp {
-    width: 20%;
-    margin: .3em 0 0 5em;
+.dig{
+    margin-left: 10.15em;
+}
+.btn_comp {
+    width: 25%;
+    margin: 2em 0 0 37.5%;
     color: #fff;
     background-color: #8414BC;
     font-size: 120%
+}
+.input_name{
+    margin-left: 1.4em;
+}
+.input_last{
+    margin-left: 1.39em;
+}
+.input_email{
+    margin-left: 2.85em;
+}
+.input_dir{
+    margin-left: .8em;
+}
+h5{
+    color: #8414BC;
+    font-size: 120%;
+    font-family: mada, sans-serif;
+    margin: 1em 0 0 .5em;
+}
+.precio_tot{
+    color: #fff;
+    font-size: 110%;
+    font-family: mada, sans-serif;
+}
+.env{
+    color: #fff;
+    font-size: 110%;
+    font-family: mada, sans-serif;
+    margin: 0 0 .3em 5em;
 }
 /*footer*/
 footer  {
